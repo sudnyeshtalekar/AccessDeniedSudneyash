@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "786321172992",
+    "firebase_url": "https://accessdeniedsudneyash.firebaseio.com",
+    "project_id": "accessdeniedsudneyash",
+    "storage_bucket": "accessdeniedsudneyash.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786321172992:android:1c3494a212eca0cd",
+        "android_client_info": {
+          "package_name": "com.example.vivanksharma.accessdeniedsudneyash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786321172992-laort8bpupmk0a1bvm6j2leqkg733khn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vivanksharma.accessdeniedsudneyash",
+            "certificate_hash": "05660be1618a26c860e12c799aaace83104f905a"
+          }
+        },
+        {
+          "client_id": "786321172992-2v3mmbqg9t4ssqs3gcne5n79860lc0j4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5sqJo8-mUUlzQae_-Bj21PUrHMukyji0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786321172992-2v3mmbqg9t4ssqs3gcne5n79860lc0j4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
